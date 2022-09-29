@@ -1,0 +1,18 @@
+.students-list { 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+  } 
+
+  .modal-title{
+    text-align: center;
+  }
+   
+
+  .list-title { 
+    text-align: center !important;
+  }
+
+  .body {
+    background-color: #caced1;
+  } 

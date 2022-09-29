@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Helena",
+      "lastName": "Jackson",
+      "number": "996500962611",
+      "weeksKPI": "1",
+      "monthKPI": "2"
+    },
+    {
+      "firstName": "Ziyada",
+      "lastName": "Turdukulova",
+      "number": "996500962622",
+      "weeksKPI": "1",
+      "monthKPI": "2",
+      "id": 2
+    },
+    {
+      "firstName": "Aruuke ",
+      "lastName": "Aruuk",
+      "number": "996500962633",
+      "weeksKPI": "3",
+      "monthKPI": "4",
+      "id": 3
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Tomas",
+      "number": "996500962655",
+      "weeksKPI": "6",
+      "monthKPI": "5",
+      "id": 4
+    },
+    {
+      "firstName": "Myrzaiym",
+      "lastName": "Myrzaiymm",
+      "number": "996500962612",
+      "weeksKPI": "2",
+      "monthKPI": "2",
+      "id": 5
+    },
+    {
+      "firstName": "Katya",
+      "lastName": "Kim",
+      "number": "996500962622",
+      "weeksKPI": "3",
+      "monthKPI": "1",
+      "id": 6
+    },
+    {
+      "firstName": "Asem",
+      "lastName": "Asemaa",
+      "number": "996500962632",
+      "weeksKPI": "5",
+      "monthKPI": "2",
+      "id": 7
+    }
+  ]
+}
